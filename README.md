@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Watch A Turorial By Clicking On This Link
+[![TODO App Using React.Js](./screenshots/1.png)](https://www.youtube.com/watch?v=svEFW9gLU2E "Movie Genre Classification using NLP")
+
